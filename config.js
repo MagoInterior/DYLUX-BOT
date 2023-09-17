@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 global.nomorbot = '254736958034' //Nomor Bot
 global.owner = [
   ['254736958034', '🐝KHALID-TECH🐝', true],
-  ['923470027813'], '🌿xIRATOS CONTRIBUTORx🌿', true],
+  ['923470027813', '🌿xIRATOS CONTRIBUTORx🌿', true],
   ['254768667910', '🐝STARBOY DONATOR🐝', true],
 ] //Numeros
 
